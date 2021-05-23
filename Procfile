@@ -1,1 +1,1 @@
-web :gunicore enrolment.wsgi
+web: gunicorn enrolment.wsgi
